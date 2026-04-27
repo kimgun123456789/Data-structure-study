@@ -74,7 +74,6 @@ int check_matching(const char* in) {//괄호 검사 키트
 						return 0;
 					}
 				}
-				break;
 		}
 
 	}
